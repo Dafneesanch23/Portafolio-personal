@@ -1,10 +1,28 @@
 h1{
  font-family: monospace;
  font-size: xx-large;
- color: ;
+ color: brown;
  text-align: center;
- 
+
 }
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chocolate;
+      
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cadetblue;
+      
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 
 body{
 background-image: url(Fondo.jpg);
