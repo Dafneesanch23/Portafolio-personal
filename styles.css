@@ -1,0 +1,13 @@
+h1{
+ font-family: monospace;
+ font-size: xx-large;
+ color: ;
+ text-align: center;
+ 
+}
+
+body{
+background-image: url(Fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
