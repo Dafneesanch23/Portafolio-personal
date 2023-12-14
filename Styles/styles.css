@@ -54,6 +54,7 @@ a{
 
 p{
     font-family: louis;
+    font-size: 1.2em;
 }
 
 a:hover{
@@ -67,6 +68,6 @@ body{
     background-image: url(Fondo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: copy;
+    cursor: url(frog.png), auto;
 }
 
