@@ -61,6 +61,7 @@ a:hover{
     color: darkolivegreen;
     text-decoration: none;
     font-size: 0.9em;
+    cursor: url(cat1.png), auto;
 }
 
 body{
@@ -68,6 +69,6 @@ body{
     background-image: url(Fondo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: url(frog.png), auto;
+    cursor: url(cat.png), auto;
 }
 
