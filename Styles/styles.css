@@ -2,6 +2,7 @@
     padding: 1px 20px;
     background-color: #FFF6DC;
     border: 3px solid #765827;
+    border-radius: 10px;
 }
 
 @font-face {
@@ -72,6 +73,36 @@ body{
     cursor: url(cat.png), auto;
 }
 
-#contacto{
-    
+form{
+    padding: 20px 40px;
+    border-radius: 10px;
+    background-color: #FFF6DC;
+    border: 3px solid #765827;
+    color: #419197;
+    font-family: louis;
+    font-size: 1em;
+}
+
+input, textarea{
+border-color: lightgrey;
+border-style: solid;
+padding: 5px;
+}
+
+#mensaje-usuario{
+width: 30em; 
+}
+
+button{
+   background-color: #12486B;
+   color: white;
+   border-radius: 15em;
+   border: none;
+   padding: .5em 1em;
+}
+
+button:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: #427D9D;
 }
